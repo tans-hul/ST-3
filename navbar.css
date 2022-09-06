@@ -1,0 +1,31 @@
+#search {
+    padding-top: 0.6vh;
+    position: relative;
+    left: 130vh;
+}
+
+#logo123 {
+    height: 8vh;
+}
+
+.nav-link:hover {
+    background-color: rgb(36, 138, 255);
+    color: #fff;
+    border-radius: 20px;
+
+}
+
+#support-card {
+ background-color:rgb(29,30,32);
+}
+
+#support-cards:hover {
+    transform: scale(1.05);
+    transition: all 0.4s ease-in-out;
+
+}
+
+#support-cards:not(:hover) {
+    transform: scale(1);
+    transition: 0.4s;
+}

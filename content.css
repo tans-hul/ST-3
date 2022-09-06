@@ -1,0 +1,14 @@
+#help-center {
+    background-image: url(https://images.pexels.com/photos/3791664/pexels-photo-3791664.jpeg);
+    height: 110vh;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.support-list {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    
+}
+
